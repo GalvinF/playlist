@@ -47,32 +47,32 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 #### Wrap
 
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ### Day 3 Goal 1: Write the code to allow users to add additional songs to your playlist
 
-- [ ] Declare a variable and save the value of the user input with class `song`
-- [ ] Use `.push()` to add the value to your song name array.
+- [x] Declare a variable and save the value of the user input with class `song`
+- [x] Use `.push()` to add the value to your song name array.
 
 ### Day 3 Goal 2: Write the code to allow users to add additional song information to your playlist
 
-- [ ] Declare additional variables and save the values of each input tag
-- [ ] Use `.push()` to add each input value to the correct array
+- [x] Declare additional variables and save the values of each input tag
+- [x] Use `.push()` to add each input value to the correct array
 
 #### Wrap
 
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 4
 
 ### Day 4 Goal 1: Refactor your arrays so all your song information is stored in Objects
 
-- [ ] Comment out your arrays
-- [ ] Create an Object for each of your songs
-- [ ] Inside each Object, add key/value pairs to store the title, artist,image, and link
-- [ ] Store all your Objects in one array
+- [x] Comment out your arrays
+- [x] Create an Object for each of your songs
+- [x] Inside each Object, add key/value pairs to store the title, artist,image, and link
+- [x] Store all your Objects in one array
 
 #### Wrap
 
