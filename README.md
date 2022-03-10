@@ -76,15 +76,15 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 
 #### Wrap
 
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 5
 
 ### Day 5 Goal 1: Refactor your loops so all your song information displays correctly on the page
 
-- [ ] Update your click handler so the input values are saved in as values in a new Object
-- [ ] Update your `.push()` so the input Object is added to your array of Objects
-- [ ] Update your loops based on your new array of Objects
+- [x] Update your click handler so the input values are saved in as values in a new Object
+- [x] Update your `.push()` so the input Object is added to your array of Objects
+- [x] Update your loops based on your new array of Objects
 
 #### Wrap
 

@@ -10,7 +10,7 @@ h1 {
 }
 
 .column {
-  width: 18%;
+  width: 20%;
   padding: 25px 0px;
 }
 
@@ -24,7 +24,6 @@ h1 {
 .songs p {
   font-size: 18px;
   height: 100px;
-  font-weight: bold;
   margin: 20px;
 }
 
